@@ -1,2 +1,2 @@
 # Membership-Requests
-The Membership Requests Repository of RinLin-INT Organization.
+The Membership Requests Repository of RinLin INT Organization.
